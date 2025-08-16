@@ -1,0 +1,13 @@
+2025-08-16 09:15:21,342 [INFO]  - Service started http://mail.goog.com successfully
+2025-08-16 09:15:23,781 [DEBUG] - Checking database connection
+2025-08-16 09:15:27,109 [INFO]  - Database connection established
+2025-08-16 09:16:02,564 [WARN]  - High memory http://mail.goog.com usage detected: 78%
+2025-08-16 09:16:45,902 [ERROR] - Failed to fetch user data: timeout https://mail.goog.com
+2025-08-16 09:17:33,210 [INFO]  - This is http://mail.goog-test.com which is triggered from https://goog.com also from http://mail.yahoo.com?param=user
+2025-08-16 09:17:33,210 [INFO]  - Retrying request to /api/users
+2025-08-16 09:17:34,011 [INFO]  - Request succeeded (200 OK)
+2025-08-16 09:19:58,477 [DEBUG] - Cache refreshed for key: session_1289
+2025-08-16 09:23:04,654 [INFO]  - User login successful: user_id=4521
+2025-08-16 09:27:19,982 [WARN]  - Disk space low: 12% http://mail.goog-test.com
+2025-08-16 09:35:40,123 [ERROR] - Background job crashed: NullPointerException
+2025-08-16 09:42:51,331 [INFO]  - Background job restarted successfully
